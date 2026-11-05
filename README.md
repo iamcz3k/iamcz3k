@@ -27,18 +27,25 @@ My work spans web platforms, Android applications, backend systems, and digital 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [ZEKIFY](https://github.com/iamcz3k/zekify)
 
 Streaming and entertainment application focused on Android and playback experience.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [LACZEK STREAM](https://github.com/iamcz3k/laczekstream-485f539f)
 
 Digital streaming platform with web technologies and infrastructure.
+
+</td>
+<td width="33%" valign="top">
+
+### [NAMIDA](https://github.com/iamcz3k/namida)
+
+Music and video player project built with Flutter, featuring library management and YouTube integration.
 
 </td>
 </tr>
