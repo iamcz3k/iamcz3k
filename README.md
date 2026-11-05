@@ -27,25 +27,18 @@ My work spans web platforms, Android applications, backend systems, and digital 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [ZEKIFY](https://github.com/iamcz3k/zekify)
 
 Streaming and entertainment application focused on Android and playback experience.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [LACZEK STREAM](https://github.com/iamcz3k/laczekstream-485f539f)
 
 Digital streaming platform with web technologies and infrastructure.
-
-</td>
-<td width="33%" valign="top">
-
-### [UNEB Exam Hub](https://github.com/iamcz3k/uneb-exam-hub)
-
-Educational technology project focused on exam resources and learning.
 
 </td>
 </tr>
